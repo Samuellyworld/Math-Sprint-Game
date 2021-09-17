@@ -109,7 +109,7 @@ label {
 }
 
 .selection-footer {
-  top: 134px;
+  top: 94px;
 }
 
 /* Game Page -------------------------- */
@@ -352,3 +352,11 @@ button:active {
   width: 95%;
 }
 }
+/* 
+@media screen and (max-height: 1367px) and (max-width: 1025px) {
+  .selection-footer {
+    top: 133px;
+  }
+ 
+  
+} */
